@@ -1,4 +1,1 @@
-﻿  TCP-Server.cpp
-C:\Users\D-jhkim\source\repos\git\tcp_udp\TCP-Server\TCP-Server.cpp(128,7): warning C4101: 'sendbuf': unreferenced local variable
-C:\Users\D-jhkim\source\repos\git\tcp_udp\TCP-Server\TCP-Server.cpp(69,7): warning C4101: 'str': unreferenced local variable
-  TCP-Server.vcxproj -> C:\Users\D-jhkim\source\repos\git\tcp_udp\x64\Debug\TCP-Server.exe
+﻿  TCP-Server.vcxproj -> C:\Users\D-jhkim\source\repos\git\tcp_udp\x64\Debug\TCP-Server.exe
