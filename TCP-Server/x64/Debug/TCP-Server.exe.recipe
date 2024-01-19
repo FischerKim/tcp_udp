@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\source\WinSock-Sample-master\WinSock-Sample-master\x64\Debug\TCP-Server.exe</FullPath>
+      <FullPath>C:\Users\D-jhkim\source\repos\git\tcp_udp\x64\Debug\TCP-Server.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

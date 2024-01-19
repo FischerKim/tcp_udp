@@ -1,4 +1,4 @@
 ﻿  TCP-Server.cpp
-D:\source\WinSock-Sample-master\WinSock-Sample-master\TCP-Server\TCP-Server.cpp(139,7): warning C4101: 'sendbuf': unreferenced local variable
-D:\source\WinSock-Sample-master\WinSock-Sample-master\TCP-Server\TCP-Server.cpp(80,7): warning C4101: 'str': unreferenced local variable
-  TCP-Server.vcxproj -> D:\source\WinSock-Sample-master\WinSock-Sample-master\x64\Debug\TCP-Server.exe
+C:\Users\D-jhkim\source\repos\git\tcp_udp\TCP-Server\TCP-Server.cpp(128,7): warning C4101: 'sendbuf': unreferenced local variable
+C:\Users\D-jhkim\source\repos\git\tcp_udp\TCP-Server\TCP-Server.cpp(69,7): warning C4101: 'str': unreferenced local variable
+  TCP-Server.vcxproj -> C:\Users\D-jhkim\source\repos\git\tcp_udp\x64\Debug\TCP-Server.exe
