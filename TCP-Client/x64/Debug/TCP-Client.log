@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  TCP-Client.cpp
+D:\source\WinSock-Sample-master\WinSock-Sample-master\TCP-Client\TCP-Client.cpp(100,7): warning C4101: 'sendbuf': unreferenced local variable
+  TCP-Client.vcxproj -> D:\source\WinSock-Sample-master\WinSock-Sample-master\x64\Debug\TCP-Client.exe
