@@ -1,6 +1,6 @@
 ﻿  stdafx.cpp
   UDP-Server.cpp
-D:\source\WinSock-Sample-master\WinSock-Sample-master\UDP-Server\UDP-Server.cpp(102,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
-D:\source\WinSock-Sample-master\WinSock-Sample-master\UDP-Server\UDP-Server.cpp(124,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\source\WinSock-Sample-master\WinSock-Sample-master\UDP-Server\UDP-Server.cpp(74,6): warning C4101: 'iSendResult': unreferenced local variable
-  UDP-Server.vcxproj -> D:\source\WinSock-Sample-master\WinSock-Sample-master\x64\Debug\UDP-Server.exe
+C:\Users\D-jhkim\source\repos\git\tcp_udp\UDP-Server\UDP-Server.cpp(102,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\D-jhkim\source\repos\git\tcp_udp\UDP-Server\UDP-Server.cpp(124,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\D-jhkim\source\repos\git\tcp_udp\UDP-Server\UDP-Server.cpp(74,6): warning C4101: 'iSendResult': unreferenced local variable
+  UDP-Server.vcxproj -> C:\Users\D-jhkim\source\repos\git\tcp_udp\x64\Debug\UDP-Server.exe

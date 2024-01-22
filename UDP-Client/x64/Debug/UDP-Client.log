@@ -1,4 +1,4 @@
 ﻿  stdafx.cpp
   UDP-Client.cpp
-D:\source\WinSock-Sample-master\WinSock-Sample-master\UDP-Client\UDP-Client.cpp(82,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  UDP-Client.vcxproj -> D:\source\WinSock-Sample-master\WinSock-Sample-master\x64\Debug\UDP-Client.exe
+C:\Users\D-jhkim\source\repos\git\tcp_udp\UDP-Client\UDP-Client.cpp(82,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  UDP-Client.vcxproj -> C:\Users\D-jhkim\source\repos\git\tcp_udp\x64\Debug\UDP-Client.exe

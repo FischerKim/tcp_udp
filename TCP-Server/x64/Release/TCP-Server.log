@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  TCP-Server.cpp
+C:\Users\D-jhkim\source\repos\git\tcp_udp\TCP-Server\TCP-Server.cpp(129,7): warning C4101: 'sendbuf': unreferenced local variable
+C:\Users\D-jhkim\source\repos\git\tcp_udp\TCP-Server\TCP-Server.cpp(70,7): warning C4101: 'str': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 302 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TCP-Server.vcxproj -> C:\Users\D-jhkim\source\repos\git\tcp_udp\x64\Release\TCP-Server.exe

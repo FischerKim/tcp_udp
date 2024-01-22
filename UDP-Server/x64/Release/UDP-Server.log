@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  UDP-Server.cpp
+C:\Users\D-jhkim\source\repos\git\tcp_udp\UDP-Server\UDP-Server.cpp(102,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\D-jhkim\source\repos\git\tcp_udp\UDP-Server\UDP-Server.cpp(124,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\D-jhkim\source\repos\git\tcp_udp\UDP-Server\UDP-Server.cpp(74,6): warning C4101: 'iSendResult': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 164 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UDP-Server.vcxproj -> C:\Users\D-jhkim\source\repos\git\tcp_udp\x64\Release\UDP-Server.exe

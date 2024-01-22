@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  UDP-Client.cpp
+C:\Users\D-jhkim\source\repos\git\tcp_udp\UDP-Client\UDP-Client.cpp(82,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 82 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UDP-Client.vcxproj -> C:\Users\D-jhkim\source\repos\git\tcp_udp\x64\Release\UDP-Client.exe
